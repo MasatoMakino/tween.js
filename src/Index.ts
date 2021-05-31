@@ -57,3 +57,5 @@ const exports = {
 }
 
 export default exports
+const flag = false
+export {flag}
